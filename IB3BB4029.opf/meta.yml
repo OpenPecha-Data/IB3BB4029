@@ -1,0 +1,80 @@
+id: IB3BB4029
+ocr_import_info:
+  timestamp: '2023-06-17T12:48:11.732467+00:00'
+  batch_id: batch-5c44
+  ocr_engine: GoogleVisionEngine
+  ocr_model_type: builtin/weekly
+  ocr_lang_hint: ''
+  software_id: ocr-pipelines@v0.1.11
+  sponsor: pechejob
+  sponsor_consent: true
+  op_import_options: {}
+  op_import_version: 0.11.7
+default_language: bo
+source: https://library.bdrc.io
+initial_creation_type: ocr
+imported: 2023-06-17 13:53:49.285913+00:00
+last_modified: 2023-06-17 13:53:49.285922+00:00
+source_metadata:
+  id: http://purl.bdrc.io/resource/W4CZ74369
+  status: http://purl.bdrc.io/admindata/StatusReleased
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  reproduction_of: http://purl.bdrc.io/resource/MW4CZ74369
+  copyright_status: http://purl.bdrc.io/resource/CopyrightPublicDomain
+  title: དུས་འཁོར་གྱི་འགྲེལ་པ་ཕྱོགས་བསྒྲིགས།
+  languages:
+  - bo
+  author: མཁས་གྲུབ་རྗེ་དགེ་ལེགས་དཔལ་བཟང་།
+statistics:
+  ocr_word_mean_confidence_index: 0.9484748214085782
+  ocr_word_median_confidence_index: 0.99617535
+bases:
+  I4CZ74373:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I4CZ74373
+      total_pages: 690
+      volume_number: 3
+      volume_pages_bdrc_intro: 2
+    order: 3
+    base_file: I4CZ74373.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9914758
+      ocr_word_mean_confidence_index: 0.9401703282314643
+  I4CZ74371:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I4CZ74371
+      total_pages: 808
+      volume_number: 1
+      volume_pages_bdrc_intro: 2
+    order: 1
+    base_file: I4CZ74371.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.997645925
+      ocr_word_mean_confidence_index: 0.9574443072041736
+  I4CZ74372:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I4CZ74372
+      total_pages: 774
+      volume_number: 2
+      volume_pages_bdrc_intro: 2
+    order: 2
+    base_file: I4CZ74372.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9945544500000001
+      ocr_word_mean_confidence_index: 0.9407174681291461
+  I4CZ74374:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I4CZ74374
+      total_pages: 622
+      volume_number: 4
+      volume_pages_bdrc_intro: 2
+    order: 4
+    base_file: I4CZ74374.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9983202
+      ocr_word_mean_confidence_index: 0.9551594978856344
+copyright:
+  status: Public domain
+  notice: Public domain
+  info_url: https://creativecommons.org/publicdomain/mark/1.0/
+license: CC0
